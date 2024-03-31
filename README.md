@@ -9,8 +9,8 @@ Multiple ways to run Python code, but VS Code reigns supreme as your multilingua
 ### VS Code:
 Get started by installing:
 
-• Open VS Code
-• Go to the Extension View or (Ctrl + Shift + X)
-• In the search bar, type "Python" by Microsoft and install it.
-
-![](Asset/python-extension-install.gif)
+• Open VS Code  
+• Go to the Extension View or (Ctrl + Shift + X)  
+• In the search bar, type "Python" by Microsoft and install it.  
+  
+![](Asset/python-extension-install.gif)  
