@@ -14,3 +14,6 @@ Get started by installing:
 • In the search bar, type "Python" by Microsoft and install it.  
   
 ![](Asset/python-extension-install.gif)  
+
+After installation and other stuff, now you can run python code in your VS Code.  
+  
