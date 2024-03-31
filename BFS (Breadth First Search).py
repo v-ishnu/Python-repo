@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 graph = {
     'A' : ['B','C'],
     'B' : ['D','E'],
@@ -31,22 +25,3 @@ def bfs (visited,graph,node):
                 queue.append(neighbour)
 #Driver Code                
 bfs(visited, graph, 'A')
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
